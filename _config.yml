@@ -1,7 +1,7 @@
-site: Journal Jekyll Theme
+site: Samaniash
 
-url: 
-baseurl: 
+url: samania.sh
+baseurl: samania.sh
 
 collections:
   pages:
