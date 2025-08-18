@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Journal
-  site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
+  site_title: Samaniash
+  site_tagline: A window into some experiences
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -31,7 +31,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/adityasathis'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
