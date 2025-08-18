@@ -1,7 +1,7 @@
 site: Samaniash
 
-url: https://samania.sh
-baseurl: https://samania.sh
+url:
+baseurl:
 
 collections:
   pages:
